@@ -3,6 +3,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+<title>近藤宏史のダミーサイトへようこそ</title>
 <body>
   <?php include(dirname(__file__).'/header.php');?>
   <?php include(dirname(__file__).'/slide.php');?>
